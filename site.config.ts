@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'f8a85f66d329470c9487c64a695ca587',
+  rootNotionPageId: 'Z-CTF-2e4924d548654f8fa7b769ab761ac0f3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'beihaiZ',
-  domain: 'https://www.notion.so/Getting-Started-f8a85f66d329470c9487c64a695ca587',
+  domain: 'https://chip-fold-cd8.notion.site/Z-CTF-2e4924d548654f8fa7b769ab761ac0f3',
   author: 'beihaizhang',
 
   // open graph metadata (optional)
